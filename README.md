@@ -71,7 +71,7 @@ pip install requests pillow opencv-python sounddevice numpy pyperclip
 ## How to run as a script / Cómo ejecutarlo como script
 
 ```
-git clone https://github.com/<usuario>/SunLogger.git
+git clone https://github.com/santiago435/SunLogger.git
 cd SunLogger
 pip install -r requirements.txt
 python wuaserv.py
