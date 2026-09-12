@@ -246,7 +246,7 @@ MIT. Consulta `LICENSE` para los términos completos.
 <p align="center">
 <h1 align="center">Sponsorship</h1>
 
-<p align="center">If you find my work valuable, you can show your support by sponsoring me. Your contribution will help me maintain and improve my projects.</p>
+<p align="center">If you find my work valuable, you can show your support by giving this project a star.</p>
 
 <br>
 
@@ -256,18 +256,6 @@ MIT. Consulta `LICENSE` para los términos completos.
   <img src="https://img.shields.io/badge/api-telegram-26A5E4.svg?logo=telegram&style=flat-square" alt="Telegram"</img>
   <img src="https://img.shields.io/badge/platform-windows-0078D6.svg?logo=windows&style=flat-square" alt="Windows"</img>
   <img src="https://img.shields.io/badge/interface-tkinter-ffcc00.svg?logo=python&style=flat-square" alt="Tkinter"</img>
-</p>
-
-<br>
-
-<h2 align="center">🔗 Help / Contact</h2>
-<p align="center">
-  <a href="https://github.com/<usuario>/SunLogger/issues">
-    <img src="https://img.shields.io/badge/ISSUES-GITHUB-black?style=for-the-badge&logo=github" alt="Issues Badge"/>
-  </a>
-  <a href="https://github.com/<usuario>/SunLogger">
-    <img src="https://img.shields.io/badge/REPO-GITHUB-black?style=for-the-badge&logo=github" alt="Repo Badge"/>
-  </a>
 </p>
 
 <br>
